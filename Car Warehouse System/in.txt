@@ -1,0 +1,2 @@
+18ABC,2018,Red,Blue,Grey,Toyota,Corolla,98500,2
+23RGC,2019,White,Orange,Yellow,Nishan,Sunny,43600,4
